@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SASTRAUNIVERSITY</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">
+        SASTRA University, committed to excellence, with a holistic approach has consistently maintained the highest standards in “a man-making education” in the immortal words of Swami Vivekananda, which can only be ensured by quality teaching of the finest calibre. We here in SASTRA believe in Tagorean concept of “The Home and the World”, keeping in mind, the vital importance of empowering women, by giving them their rightful place in national development.
+
+SASTRA has carved a niche for itself as a Centre for fostering and developing the body, mind and sprit of its students.  SASTRA is totally committed to this three - fold flowering of the students entrusted to its care.  Our blend of academic excellence and real world experience with moral values has earned SASTRA, national recognition.
+</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+
+    </string-array>
+
+</resources>
